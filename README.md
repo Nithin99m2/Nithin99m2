@@ -13,8 +13,7 @@ I am an undergraduate Computer science and Engineering student and Researcher at
 
 ## My Github Stats 📊
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nithin99m2&hide=issues&count_private=true&show_icons=true&repo=github-readme-stats&show_icons=true&theme=radical" />
-<img align="center" alt="Language Cards" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin99m2&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nithin99m2&hide=issues&count_private=true&show_icons=true&repo=github-readme-stats&show_icons=true&theme=radical" /> <img align="center" alt="Language Cards" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin99m2&layout=compact&theme=radical" />
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Nithin99m2.repoName) 
 
